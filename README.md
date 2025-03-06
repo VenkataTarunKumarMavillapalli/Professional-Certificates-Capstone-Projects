@@ -1,7 +1,4 @@
-# README - Data Analytics & Business Intelligence Portfolio
-
-## Overview
-Welcome to my portfolio, where I showcase my expertise in data analytics, business intelligence, machine learning, and project management. Below, you'll find details of my certifications and projects completed as part of professional courses, demonstrating my ability to analyze data, create insightful visualizations, and develop effective business strategies.
+# Overview of Professional Certificates - Data Analytics & Business Intelligence Portfolio
 
 ---
 
@@ -16,7 +13,7 @@ Welcome to my portfolio, where I showcase my expertise in data analytics, busine
 - Utilized **BigQuery, SQL, Tableau, and Google Sheets** for data processing and visualization.
 - Delivered key insights through dashboards measuring call frequency by market, problem type, and time period.
 
-**Certificate Link:** [Add your certificate link here]
+**Certificate Link:** [https://coursera.org/verify/professional-cert/CTMS6LBYS4EW]
 
 ---
 
@@ -30,7 +27,7 @@ Welcome to my portfolio, where I showcase my expertise in data analytics, busine
 - Applied **quality management standards** to ensure high project deliverables.
 - Demonstrated **effective communication and escalation strategies** for project risks.
 
-**Certificate Link:** [Add your certificate link here]
+**Certificate Link:** [https://coursera.org/verify/professional-cert/UT9VFSLCHP57]
 
 ---
 
@@ -43,7 +40,7 @@ Welcome to my portfolio, where I showcase my expertise in data analytics, busine
 - Implemented **K-means, PCA, KNN, NMF, and Deep Learning models** for recommendations.
 - Used **Jupyter Notebooks, Pandas, Scikit-learn, TensorFlow, and Watson Studio**.
 
-**Certificate Link:** [Add your certificate link here]
+**Certificate Link:** [https://coursera.org/verify/professional-cert/DDTCETTDZ5F8]
 
 ---
 
@@ -55,7 +52,7 @@ Welcome to my portfolio, where I showcase my expertise in data analytics, busine
 - Identified user activity patterns and trends relevant to Bellabeat's business strategy.
 - Developed data-driven recommendations for Bellabeat's marketing strategy.
 
-**Certificate Link:** [Add your certificate link here]
+**Certificate Link:** [https://coursera.org/verify/professional-cert/HRZ7REAXLZG8]
 
 ---
 
