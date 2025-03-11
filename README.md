@@ -68,6 +68,6 @@
 ## Contact
 For any queries or collaborations, feel free to reach out.
 
-**LinkedIn:** [Venkata Tarun Kumar Mavillapalli LinkedIn Profile](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/) 
+**LinkedIn:** [Venkata Tarun Kumar Mavillapalli](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/) 
 
 
