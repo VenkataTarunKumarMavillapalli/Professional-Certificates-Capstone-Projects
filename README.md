@@ -66,8 +66,8 @@
 ---
 
 ## Contact
-If you're interested in discussing my work or give me opportunity, feel free to reach out!
+For any queries or collaborations, feel free to reach out.
 
-**LinkedIn:** [https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/]  
+**LinkedIn:** [Tarun LinkedIn Profile](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/) 
 
 
